@@ -1,0 +1,28 @@
+{
+  "name": "nforce-express",
+  "version": "1.0.0",
+  "description": "nforce middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinohara80/nforce-express.git"
+  },
+  "keywords": [
+    "nforce-plugin",
+    "nforce",
+    "express",
+    "middleware"
+  ],
+  "author": "Kevin O'Hara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinohara80/nforce-express/issues"
+  },
+  "homepage": "https://github.com/kevinohara80/nforce-express",
+  "peerDependencies": {
+    "nforce": ">= 0.8.0"
+  }
+}
