@@ -1,3 +1,5 @@
+var url = require('url');
+
 module.exports = function(nforce, pluginName) {
 
   // plugin definition
