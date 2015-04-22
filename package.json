@@ -1,6 +1,6 @@
 {
   "name": "nforce-express",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "nforce middleware for express",
   "main": "index.js",
   "scripts": {
