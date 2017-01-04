@@ -1,6 +1,8 @@
 nforce-express
 ==============
 
+[![npm version](https://badge.fury.io/js/nforce-express.svg)](https://badge.fury.io/js/nforce-express)
+
 [express.js](https://github.com/strongloop/express) plugin for
 [nforce](https://github.com/kevinohara80/nforce). 
 This plugin provides an express/connnect middleware factory that
