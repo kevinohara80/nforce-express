@@ -5,7 +5,7 @@ nforce-express
 
 [express.js](https://github.com/strongloop/express) plugin for
 [nforce](https://github.com/kevinohara80/nforce). 
-This plugin provides an express/connnect middleware factory that
+This plugin provides an express/connect middleware factory that
 automatically handles the OAuth 2.0 callback from Salesforce.
 
 ## Usage
